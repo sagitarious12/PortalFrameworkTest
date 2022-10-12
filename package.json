@@ -1,0 +1,19 @@
+{
+  "name": "portal-sample",
+  "version": "1.0.0-16",
+  "private": true,
+  "scripts": {
+    "postinstall": "flex-plugin pre-script-check"
+  },
+  "dependencies": {
+    "@xcelerate-ui/core": "^1.0.3",
+    "flex-plugin-scripts": "4.2.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@twilio/flex-ui": "^1",
+    "react-test-renderer": "16.5.2",
+    "typescript": "^4"
+  }
+}
